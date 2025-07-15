@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv><programme start="20250714193000" stop="20250714213000" channel="8" catchup-id="80640024">
+<tv><channel id="8">
+      <display-name>STAR Plus HD</display-name>
+      <icon src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" />
+    </channel>
+    <programme start="20250714193000" stop="20250714213000" channel="8" catchup-id="80640024">
     <title>Saath Nibhaana Saathiya</title>
     <desc>Gopi and Rashi, cousins, are married into the same wealthy family. As they strive to cope with family relations, they also attempt to become better versions of themselves. S01 E69.</desc>
     <icon src="http://ttpl.tmsimg.com/assets/p18121761_e_h10_aa.jpg?lock=1280x720" />
