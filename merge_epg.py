@@ -13,7 +13,7 @@ if not epg_url:
     exit(1)
 
 # Make sure to use string channel IDs
-target_channel_ids = {"8", "51", "61", "52"}
+target_channel_ids = {"8", "51", "61", "52", "123", "245", "616" }
 
 def download_and_extract(url, out_xml, temp_gz):
     try:
