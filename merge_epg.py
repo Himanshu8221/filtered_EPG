@@ -14,14 +14,8 @@ if not epg_url:
     print("❌ EPG_URL_1 is missing.")
     exit(1)
 
-# ✅ Step 2: Use display-names to filter
-selected_channel_names = {
-    "Sony SAB HD",
-    "Star Plus HD",
-    "Zee TV HD",
-    "Colors HD",
-    # Add more display-names exactly as they appear in the XML
-}
+# ✅ Step 2: Exact channel name to keep
+target_channel_name = "SONY SAB", "SONY SAB HD", "STAR PLUS HD"
 
 # Step 3: Download and extract EPG
 def download_and_extract(url, out_xml, temp_gz):
@@ -42,30 +36,30 @@ def download_and_extract(url, out_xml, temp_gz):
         print(f"❌ Failed to download or extract {url}: {e}")
         exit(1)
 
-# Step 4: Filter by <display-name>
-def filter_epg_by_display_name(input_xml, output_xml):
+# Step 4: Filter by exact <display-name>
+def filter_epg_by_channel_name(input_xml, output_xml):
     try:
         print(f"📂 Parsing EPG file: {input_xml}")
         tree = ET.parse(input_xml)
         root = tree.getroot()
 
         new_root = ET.Element('tv')
-        selected_ids = set()
+        matched_channel_ids = set()
         added_channels = 0
         added_programmes = 0
 
-        # Find channels with matching display-name
         for channel in root.findall('channel'):
-            for dn in channel.findall('display-name'):
-                if dn.text and dn.text.strip() in selected_channel_names:
-                    selected_ids.add(channel.get('id'))
+            for display_name in channel.findall('display-name'):
+                if display_name.text and display_name.text.strip() == target_channel_name:
+                    channel_id = channel.get('id')
+                    matched_channel_ids.add(channel_id)
                     new_root.append(channel)
                     added_channels += 1
+                    print(f"✅ Found channel ID: {channel_id} for '{target_channel_name}'")
                     break
 
-        # Copy only <programme> for selected channel ids
         for programme in root.findall('programme'):
-            if programme.get('channel') in selected_ids:
+            if programme.get('channel') in matched_channel_ids:
                 new_root.append(programme)
                 added_programmes += 1
 
@@ -81,5 +75,5 @@ def filter_epg_by_display_name(input_xml, output_xml):
 print("⬇️ Starting download and extraction...")
 download_and_extract(epg_url, 'epg_source.xml', 'epg_source.xml.gz')
 
-print("🔍 Filtering by channel name...")
-filter_epg_by_display_name('epg_source.xml', 'filtered_epg.xml')
+print(f"🔍 Filtering channel: '{target_channel_name}'...")
+filter_epg_by_channel_name('epg_source.xml', 'filtered_epg.xml')
