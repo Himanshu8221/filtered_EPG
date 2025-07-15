@@ -7,7 +7,15 @@ import shutil
 print("🔧 Starting EPG merge and filter process...")
 
 # ✅ List all channel IDs you want (as strings)
-target_channel_ids = {"8", "51", "61", "1470", "52"}
+target_channel_ids = target_channel_ids = {
+    "441391", "ts144", "441264", "441274", "ts8", "441358", "441361",
+    "ts244", "244", "441207", "411619", "Star Sports 1", "Star Sports 2",
+    "ts24", "Star Sports Select 1", "ts246", "Star Sports Select 2",
+    "ts463", "411692", "52", "177", "203", "231", "235", "179", "TLC HD",
+    "53", "498", "545", "411848", "441376", "Food Food", "Travelxp HD Hindi",
+    "566", "568", "575", "616", "51", "815"
+}
+
 
 # ✅ Collect all EPG URLs from env
 epg_urls = [os.getenv(f"EPG_URL_{i}") for i in range(1, 6) if os.getenv(f"EPG_URL_{i}")]
