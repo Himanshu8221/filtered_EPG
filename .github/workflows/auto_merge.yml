@@ -1,55 +1,41 @@
-name: Merge EPG Daily
+name: EPG Filter
 
 on:
   workflow_dispatch:
-
-permissions:
-  contents: write
+  schedule:
+    - cron: "0 */6 * * *"  # runs every 6 hours (adjust as needed)
 
 jobs:
-  merge-and-commit:
+  filter-epg:
     runs-on: ubuntu-latest
 
     env:
       EPG_URL_1: ${{ secrets.EPG_URL_1 }}
-      EPG_URL_2: ${{ secrets.EPG_URL_2 }}
 
     steps:
-      - name: 📥 Checkout code
+      - name: 📥 Checkout repository
         uses: actions/checkout@v3
 
       - name: 🐍 Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: '3.10'
 
       - name: 📦 Install dependencies
         run: pip install requests
 
-      - name: ▶️ Run EPG merge script
-        run: python merge_epg.py
+      - name: ▶️ Run EPG filter script
+        run: python merge_epg.py.py
 
-      - name: 📂 Check if merged_epg.xml exists
-        id: check_file
+      - name: 📤 Commit filtered EPG output
         run: |
-          if [ -f "merged_epg.xml" ]; then
-            echo "✅ merged_epg.xml exists"
-            echo "file_exists=true" >> $GITHUB_ENV
-          else
-            echo "❌ merged_epg.xml not created"
-            echo "file_exists=false" >> $GITHUB_ENV
-          fi
-
-      - name: 🔐 Set authenticated git remote
-        if: env.file_exists == 'true'
-        run: |
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-
-      - name: ✅ Commit and push merged EPG
-        if: env.file_exists == 'true'
-        run: |
-          git config user.name "EPG Bot"
-          git config user.email "epg-bot@example.com"
-          git add merged_epg.xml
-          git commit -m "Update merged EPG [auto]" || echo "No changes to commit"
-          git push origin HEAD:${{ github.ref_name }}
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add filtered_epg.xml
+          git diff --quiet && echo "No changes to commit." || git commit -m "🤖 Update filtered EPG"
+          
+      - name: 📤 Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main   
