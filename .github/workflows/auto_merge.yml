@@ -3,7 +3,7 @@ name: EPG Filter
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"  # runs every 6 hours (adjust as needed)
+    - cron: "0 */6 * * *"  # runs every 6 hours
 
 jobs:
   filter-epg:
@@ -35,10 +35,10 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add filtered_epg.xml
-          git diff --quiet && echo "No changes to commit." || git commit -m "🤖 Update filtered EPG"
-          
-      - name: 📤 Push changes
+          git diff --cached --quiet && echo "✅ No changes to commit." || git commit -m "🤖 Update filtered EPG"
+
+      - name: 🚀 Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main   
+          branch: main
