@@ -9,6 +9,9 @@ jobs:
   filter-epg:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     env:
       EPG_URL_1: ${{ secrets.EPG_URL_1 }}
 
