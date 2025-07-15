@@ -15,7 +15,7 @@ if not epg_url:
     exit(1)
 
 # ✅ Step 2: Exact channel name to keep
-target_channel_name = "SONY SAB", "SONY SAB HD", "STAR PLUS HD"
+target_channel_name = "SONY SAB", "SONY SAB HD", "STAR Plus HD"
 
 # Step 3: Download and extract EPG
 def download_and_extract(url, out_xml, temp_gz):
