@@ -4,71 +4,76 @@ import requests
 import gzip
 import shutil
 
-print("🔧 Starting EPG filter process...")
+print("🔧 Starting EPG merge and filter process...")
 
-epg_url = os.getenv("EPG_URL_1")
+# ✅ List all channel IDs you want (as strings)
+target_channel_ids = {"8", "51", "61", "1470", "52"}
 
-if not epg_url:
-    print("❌ EPG_URL_1 is missing.")
+# ✅ Collect all EPG URLs from env
+epg_urls = [os.getenv(f"EPG_URL_{i}") for i in range(1, 6) if os.getenv(f"EPG_URL_{i}")]
+if not epg_urls:
+    print("❌ No EPG_URL_X environment variables found.")
     exit(1)
 
-# Make sure to use string channel IDs
-target_channel_ids = {"51", "61", "52", "123", "245", "616" }
-
-def download_and_extract(url, out_xml, temp_gz):
+# ✅ Download and extract each .gz file
+def download_and_extract(url, xml_path, gz_path):
     try:
-        print(f"➡️ Downloading from: {url}")
+        print(f"➡️ Downloading: {url}")
         r = requests.get(url, timeout=60)
         r.raise_for_status()
-        with open(temp_gz, 'wb') as f:
+        with open(gz_path, "wb") as f:
             f.write(r.content)
-        print(f"✅ Downloaded: {temp_gz}")
-
-        with gzip.open(temp_gz, 'rb') as f_in:
-            with open(out_xml, 'wb') as f_out:
+        with gzip.open(gz_path, "rb") as f_in:
+            with open(xml_path, "wb") as f_out:
                 shutil.copyfileobj(f_in, f_out)
-        print(f"📂 Extracted to: {out_xml}")
+        print(f"✅ Extracted to: {xml_path}")
     except Exception as e:
-        print(f"❌ Failed to download or extract: {e}")
-        exit(1)
+        print(f"❌ Error downloading {url}: {e}")
 
-def filter_epg(input_xml, output_xml):
-    try:
-        tree = ET.parse(input_xml)
-        root = tree.getroot()
+# ✅ Merge all XML trees into one
+def merge_epg_sources(xml_paths):
+    merged_root = ET.Element("tv")
+    for path in xml_paths:
+        try:
+            tree = ET.parse(path)
+            root = tree.getroot()
+            for elem in root:
+                merged_root.append(elem)
+            print(f"✅ Merged: {path}")
+        except Exception as e:
+            print(f"❌ Failed to parse {path}: {e}")
+    return merged_root
 
-        # Root element should be <tv>
-        new_root = ET.Element("tv")
-        added_channels = 0
-        added_programmes = 0
+# ✅ Filter merged EPG
+def filter_epg(root, output_path):
+    new_root = ET.Element("tv")
+    added_channels = 0
+    added_programmes = 0
 
-        print("\n🔍 Looking for matching channels...")
-        for channel in root.findall(".//channel"):
-            cid = channel.get("id")
-            if cid in target_channel_ids:
-                new_root.append(channel)
-                added_channels += 1
-                print(f"✅ Matched channel id={cid}")
+    for channel in root.findall(".//channel"):
+        if channel.get("id") in target_channel_ids:
+            new_root.append(channel)
+            added_channels += 1
 
-        print("\n🔍 Looking for matching programmes...")
-        for programme in root.findall(".//programme"):
-            if programme.get("channel") in target_channel_ids:
-                new_root.append(programme)
-                added_programmes += 1
+    for programme in root.findall(".//programme"):
+        if programme.get("channel") in target_channel_ids:
+            new_root.append(programme)
+            added_programmes += 1
 
-        print(f"\n✅ Added {added_channels} channels and {added_programmes} programmes.")
+    ET.ElementTree(new_root).write(output_path, encoding="utf-8", xml_declaration=True)
+    print(f"✅ Filtered: {added_channels} channels, {added_programmes} programmes")
+    print(f"💾 Saved to: {output_path}")
 
-        # Write output XML
-        ET.ElementTree(new_root).write(output_xml, encoding="utf-8", xml_declaration=True)
-        print(f"💾 Output saved: {output_xml}")
+# ✅ Orchestrate the full process
+xml_paths = []
+for i, url in enumerate(epg_urls, start=1):
+    gz_path = f"epg{i}.xml.gz"
+    xml_path = f"epg{i}.xml"
+    download_and_extract(url, xml_path, gz_path)
+    xml_paths.append(xml_path)
 
-    except Exception as e:
-        print(f"❌ Error while filtering: {e}")
-        exit(1)
+print("🔀 Merging sources...")
+merged = merge_epg_sources(xml_paths)
 
-# Run the process
-input_xml = "epg_source.xml"
-output_xml = "filtered_epg.xml"
-
-download_and_extract(epg_url, input_xml, input_xml + ".gz")
-filter_epg(input_xml, output_xml)
+print("🔍 Filtering merged EPG...")
+filter_epg(merged, "filtered_epg.xml")
