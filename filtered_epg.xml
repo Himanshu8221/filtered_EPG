@@ -3,6 +3,18 @@
       <display-name>STAR Plus HD</display-name>
       <icon src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" />
     </channel>
+    <channel id="51">
+      <display-name>Dangal</display-name>
+      <icon src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-158-j5frd560-v2/imageContent-158-j5frd560-m3.png" />
+    </channel>
+    <channel id="52">
+      <display-name>Colors HD</display-name>
+      <icon src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png" />
+    </channel>
+    <channel id="61">
+      <display-name>Colors Cineplex HD</display-name>
+      <icon src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png" />
+    </channel>
     <programme start="20250714193000" stop="20250714213000" channel="8" catchup-id="80640024">
     <title>Saath Nibhaana Saathiya</title>
     <desc>Gopi and Rashi, cousins, are married into the same wealthy family. As they strive to cope with family relations, they also attempt to become better versions of themselves. S01 E69.</desc>
@@ -677,5 +689,1305 @@
     <title>Yeh Rishta Kya Kehlata Hai</title>
     <desc>Akshara and Rituraj spend time together and she tells him she wants to be a singer; Varsha and the family tease Akshara about her marriage. S01 E22.</desc>
     <icon src="http://ttpl.tmsimg.com/assets/p21192033_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250714183100" stop="20250714203000" channel="51" catchup-id="80573421">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250714203000" stop="20250714223000" channel="51" catchup-id="80573415">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250714223000" stop="20250715023000" channel="51" catchup-id="80573413">
+    <title>Ram Ratan Dhan Payo</title>
+    <desc>A curated compilation of different prayers, hymns and holy songs in devotion to the Hindu deities is played back to back.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27453749_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715023000" stop="20250715030000" channel="51" catchup-id="80573410">
+    <title>Mann Sundar</title>
+    <desc>Ruchita is rejected by many men for her outward appearance. As she strives to cope with these challenges, she hopes to find a man who would appreciate her inner beauty.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029926_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715030000" stop="20250715033000" channel="51" catchup-id="80573427">
+    <title>Mann Atisundar</title>
+    <desc>Radhika is conscious about her physical appearance and strives to find someone who would appreciate her inner beauty rather than her outward looks.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029838_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715033000" stop="20250715040000" channel="51" catchup-id="80573417">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715040000" stop="20250715043000" channel="51" catchup-id="80573422">
+    <title>Gehna Zevar Ya Zanjeer</title>
+    <desc>Gehna and Ayushman are entangled in each others lives after Gehna's mother arranges a forced marriage between the pair, causing issues between them and the family.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28193018_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715043000" stop="20250715050000" channel="51" catchup-id="80573408">
+    <title>Gudiya Rani</title>
+    <desc>Rani becomes the support system of Pari, a girl from a wealthy family. However, she strives to regain her self identity after being mistreated by her host for years.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28295207_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715050000" stop="20250715053000" channel="51" catchup-id="80573412">
+    <title>Tulsi - Hamari Badi Sayani</title>
+    <desc>After losing their two-year-old daughter, a couple struggles to have another child. But as fate would have it, they meet an orphaned young girl who would have been their daughter's age.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28568957_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715053000" stop="20250715060000" channel="51" catchup-id="80573407">
+    <title>Deewani</title>
+    <desc>Meera idolises Parth when it comes to love and relationship. However, she ends up falling for him, while he grapples with a heartbreak.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28303883_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715060000" stop="20250715063000" channel="51" catchup-id="80573411">
+    <title>Mann Sundar</title>
+    <desc>Ruchita is rejected by many men for her outward appearance. As she strives to cope with these challenges, she hopes to find a man who would appreciate her inner beauty.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029926_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715063000" stop="20250715070000" channel="51" catchup-id="80573403">
+    <title>Mann Atisundar</title>
+    <desc>Radhika is conscious about her physical appearance and strives to find someone who would appreciate her inner beauty rather than her outward looks.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029838_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715070000" stop="20250715073000" channel="51" catchup-id="80573425">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715073000" stop="20250715080000" channel="51" catchup-id="80573424">
+    <title>Gehna Zevar Ya Zanjeer</title>
+    <desc>Gehna and Ayushman are entangled in each others lives after Gehna's mother arranges a forced marriage between the pair, causing issues between them and the family.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28193018_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715080000" stop="20250715083000" channel="51" catchup-id="80573423">
+    <title>Safal Hogi Teri Aradhana</title>
+    <desc>In order to make money to help save her ill grandfather, Aradhana, a tiffin carrier from Mumbai, agrees to become a surrogate mother.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28569029_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715083000" stop="20250715123000" channel="51" catchup-id="80573418">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715123000" stop="20250715130000" channel="51" catchup-id="80573400">
+    <title>Safal Hogi Teri Aradhana</title>
+    <desc>In order to make money to help save her ill grandfather, Aradhana, a tiffin carrier from Mumbai, agrees to become a surrogate mother.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28569029_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715130000" stop="20250715133000" channel="51" catchup-id="80573420">
+    <title>Gudiya Rani</title>
+    <desc>Rani becomes the support system of Pari, a girl from a wealthy family. However, she strives to regain her self identity after being mistreated by her host for years.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28295207_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715133000" stop="20250715140000" channel="51" catchup-id="80573404">
+    <title>Tulsi - Hamari Badi Sayani</title>
+    <desc>After losing their two-year-old daughter, a couple struggles to have another child. But as fate would have it, they meet an orphaned young girl who would have been their daughter's age.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28568957_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715140000" stop="20250715143000" channel="51" catchup-id="80573414">
+    <title>Mann Atisundar</title>
+    <desc>Radhika is conscious about her physical appearance and strives to find someone who would appreciate her inner beauty rather than her outward looks.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029838_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715143000" stop="20250715150000" channel="51" catchup-id="80573402">
+    <title>Mann Sundar</title>
+    <desc>Ruchita is rejected by many men for her outward appearance. As she strives to cope with these challenges, she hopes to find a man who would appreciate her inner beauty.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029926_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715150000" stop="20250715153000" channel="51" catchup-id="80573416">
+    <title>Gehna Zevar Ya Zanjeer</title>
+    <desc>Gehna and Ayushman are entangled in each others lives after Gehna's mother arranges a forced marriage between the pair, causing issues between them and the family.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28193018_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715153000" stop="20250715160000" channel="51" catchup-id="80573409">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715160000" stop="20250715163000" channel="51" catchup-id="80573401">
+    <title>Deewani</title>
+    <desc>Meera idolises Parth when it comes to love and relationship. However, she ends up falling for him, while he grapples with a heartbreak.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28303883_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715163000" stop="20250715170000" channel="51" catchup-id="80573405">
+    <title>Safal Hogi Teri Aradhana</title>
+    <desc>In order to make money to help save her ill grandfather, Aradhana, a tiffin carrier from Mumbai, agrees to become a surrogate mother.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28569029_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715170000" stop="20250715173000" channel="51" catchup-id="80573426">
+    <title>Tulsi - Hamari Badi Sayani</title>
+    <desc>After losing their two-year-old daughter, a couple struggles to have another child. But as fate would have it, they meet an orphaned young girl who would have been their daughter's age.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28568957_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715173000" stop="20250715180000" channel="51" catchup-id="80573419">
+    <title>Gudiya Rani</title>
+    <desc>Rani becomes the support system of Pari, a girl from a wealthy family. However, she strives to regain her self identity after being mistreated by her host for years.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28295207_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715180000" stop="20250715223000" channel="51" catchup-id="80573406">
+    <title>Mann Atisundar</title>
+    <desc>Radhika is conscious about her physical appearance and strives to find someone who would appreciate her inner beauty rather than her outward looks.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029838_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250714183100" stop="20250714203000" channel="51" catchup-id="80573421">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250714203000" stop="20250714223000" channel="51" catchup-id="80573415">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250714223000" stop="20250715023000" channel="51" catchup-id="80573413">
+    <title>Ram Ratan Dhan Payo</title>
+    <desc>A curated compilation of different prayers, hymns and holy songs in devotion to the Hindu deities is played back to back.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27453749_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715023000" stop="20250715030000" channel="51" catchup-id="80573410">
+    <title>Mann Sundar</title>
+    <desc>Ruchita is rejected by many men for her outward appearance. As she strives to cope with these challenges, she hopes to find a man who would appreciate her inner beauty.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029926_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715030000" stop="20250715033000" channel="51" catchup-id="80573427">
+    <title>Mann Atisundar</title>
+    <desc>Radhika is conscious about her physical appearance and strives to find someone who would appreciate her inner beauty rather than her outward looks.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029838_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715033000" stop="20250715040000" channel="51" catchup-id="80573417">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715040000" stop="20250715043000" channel="51" catchup-id="80573422">
+    <title>Gehna Zevar Ya Zanjeer</title>
+    <desc>Gehna and Ayushman are entangled in each others lives after Gehna's mother arranges a forced marriage between the pair, causing issues between them and the family.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28193018_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715043000" stop="20250715050000" channel="51" catchup-id="80573408">
+    <title>Gudiya Rani</title>
+    <desc>Rani becomes the support system of Pari, a girl from a wealthy family. However, she strives to regain her self identity after being mistreated by her host for years.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28295207_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715050000" stop="20250715053000" channel="51" catchup-id="80573412">
+    <title>Tulsi - Hamari Badi Sayani</title>
+    <desc>After losing their two-year-old daughter, a couple struggles to have another child. But as fate would have it, they meet an orphaned young girl who would have been their daughter's age.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28568957_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715053000" stop="20250715060000" channel="51" catchup-id="80573407">
+    <title>Deewani</title>
+    <desc>Meera idolises Parth when it comes to love and relationship. However, she ends up falling for him, while he grapples with a heartbreak.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28303883_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715060000" stop="20250715063000" channel="51" catchup-id="80573411">
+    <title>Mann Sundar</title>
+    <desc>Ruchita is rejected by many men for her outward appearance. As she strives to cope with these challenges, she hopes to find a man who would appreciate her inner beauty.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029926_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715063000" stop="20250715070000" channel="51" catchup-id="80573403">
+    <title>Mann Atisundar</title>
+    <desc>Radhika is conscious about her physical appearance and strives to find someone who would appreciate her inner beauty rather than her outward looks.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029838_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715070000" stop="20250715073000" channel="51" catchup-id="80573425">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715073000" stop="20250715080000" channel="51" catchup-id="80573424">
+    <title>Gehna Zevar Ya Zanjeer</title>
+    <desc>Gehna and Ayushman are entangled in each others lives after Gehna's mother arranges a forced marriage between the pair, causing issues between them and the family.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28193018_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715080000" stop="20250715083000" channel="51" catchup-id="80573423">
+    <title>Safal Hogi Teri Aradhana</title>
+    <desc>In order to make money to help save her ill grandfather, Aradhana, a tiffin carrier from Mumbai, agrees to become a surrogate mother.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28569029_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715083000" stop="20250715123000" channel="51" catchup-id="80573418">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715123000" stop="20250715130000" channel="51" catchup-id="80573400">
+    <title>Safal Hogi Teri Aradhana</title>
+    <desc>In order to make money to help save her ill grandfather, Aradhana, a tiffin carrier from Mumbai, agrees to become a surrogate mother.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28569029_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715130000" stop="20250715133000" channel="51" catchup-id="80573420">
+    <title>Gudiya Rani</title>
+    <desc>Rani becomes the support system of Pari, a girl from a wealthy family. However, she strives to regain her self identity after being mistreated by her host for years.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28295207_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715133000" stop="20250715140000" channel="51" catchup-id="80573404">
+    <title>Tulsi - Hamari Badi Sayani</title>
+    <desc>After losing their two-year-old daughter, a couple struggles to have another child. But as fate would have it, they meet an orphaned young girl who would have been their daughter's age.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28568957_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715140000" stop="20250715143000" channel="51" catchup-id="80573414">
+    <title>Mann Atisundar</title>
+    <desc>Radhika is conscious about her physical appearance and strives to find someone who would appreciate her inner beauty rather than her outward looks.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029838_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715143000" stop="20250715150000" channel="51" catchup-id="80573402">
+    <title>Mann Sundar</title>
+    <desc>Ruchita is rejected by many men for her outward appearance. As she strives to cope with these challenges, she hopes to find a man who would appreciate her inner beauty.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029926_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715150000" stop="20250715153000" channel="51" catchup-id="80573416">
+    <title>Gehna Zevar Ya Zanjeer</title>
+    <desc>Gehna and Ayushman are entangled in each others lives after Gehna's mother arranges a forced marriage between the pair, causing issues between them and the family.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28193018_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715153000" stop="20250715160000" channel="51" catchup-id="80573409">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715160000" stop="20250715163000" channel="51" catchup-id="80573401">
+    <title>Deewani</title>
+    <desc>Meera idolises Parth when it comes to love and relationship. However, she ends up falling for him, while he grapples with a heartbreak.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28303883_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715163000" stop="20250715170000" channel="51" catchup-id="80573405">
+    <title>Safal Hogi Teri Aradhana</title>
+    <desc>In order to make money to help save her ill grandfather, Aradhana, a tiffin carrier from Mumbai, agrees to become a surrogate mother.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28569029_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715170000" stop="20250715173000" channel="51" catchup-id="80573426">
+    <title>Tulsi - Hamari Badi Sayani</title>
+    <desc>After losing their two-year-old daughter, a couple struggles to have another child. But as fate would have it, they meet an orphaned young girl who would have been their daughter's age.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28568957_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715173000" stop="20250715180000" channel="51" catchup-id="80573419">
+    <title>Gudiya Rani</title>
+    <desc>Rani becomes the support system of Pari, a girl from a wealthy family. However, she strives to regain her self identity after being mistreated by her host for years.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28295207_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715180000" stop="20250715223000" channel="51" catchup-id="80573406">
+    <title>Mann Atisundar</title>
+    <desc>Radhika is conscious about her physical appearance and strives to find someone who would appreciate her inner beauty rather than her outward looks.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029838_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250714183100" stop="20250714203000" channel="51" catchup-id="80573421">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250714203000" stop="20250714223000" channel="51" catchup-id="80573415">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250714223000" stop="20250715023000" channel="51" catchup-id="80573413">
+    <title>Ram Ratan Dhan Payo</title>
+    <desc>A curated compilation of different prayers, hymns and holy songs in devotion to the Hindu deities is played back to back.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27453749_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715023000" stop="20250715030000" channel="51" catchup-id="80573410">
+    <title>Mann Sundar</title>
+    <desc>Ruchita is rejected by many men for her outward appearance. As she strives to cope with these challenges, she hopes to find a man who would appreciate her inner beauty.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029926_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715030000" stop="20250715033000" channel="51" catchup-id="80573427">
+    <title>Mann Atisundar</title>
+    <desc>Radhika is conscious about her physical appearance and strives to find someone who would appreciate her inner beauty rather than her outward looks.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029838_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715033000" stop="20250715040000" channel="51" catchup-id="80573417">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715040000" stop="20250715043000" channel="51" catchup-id="80573422">
+    <title>Gehna Zevar Ya Zanjeer</title>
+    <desc>Gehna and Ayushman are entangled in each others lives after Gehna's mother arranges a forced marriage between the pair, causing issues between them and the family.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28193018_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715043000" stop="20250715050000" channel="51" catchup-id="80573408">
+    <title>Gudiya Rani</title>
+    <desc>Rani becomes the support system of Pari, a girl from a wealthy family. However, she strives to regain her self identity after being mistreated by her host for years.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28295207_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715050000" stop="20250715053000" channel="51" catchup-id="80573412">
+    <title>Tulsi - Hamari Badi Sayani</title>
+    <desc>After losing their two-year-old daughter, a couple struggles to have another child. But as fate would have it, they meet an orphaned young girl who would have been their daughter's age.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28568957_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715053000" stop="20250715060000" channel="51" catchup-id="80573407">
+    <title>Deewani</title>
+    <desc>Meera idolises Parth when it comes to love and relationship. However, she ends up falling for him, while he grapples with a heartbreak.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28303883_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715060000" stop="20250715063000" channel="51" catchup-id="80573411">
+    <title>Mann Sundar</title>
+    <desc>Ruchita is rejected by many men for her outward appearance. As she strives to cope with these challenges, she hopes to find a man who would appreciate her inner beauty.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029926_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715063000" stop="20250715070000" channel="51" catchup-id="80573403">
+    <title>Mann Atisundar</title>
+    <desc>Radhika is conscious about her physical appearance and strives to find someone who would appreciate her inner beauty rather than her outward looks.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029838_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715070000" stop="20250715073000" channel="51" catchup-id="80573425">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715073000" stop="20250715080000" channel="51" catchup-id="80573424">
+    <title>Gehna Zevar Ya Zanjeer</title>
+    <desc>Gehna and Ayushman are entangled in each others lives after Gehna's mother arranges a forced marriage between the pair, causing issues between them and the family.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28193018_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715080000" stop="20250715083000" channel="51" catchup-id="80573423">
+    <title>Safal Hogi Teri Aradhana</title>
+    <desc>In order to make money to help save her ill grandfather, Aradhana, a tiffin carrier from Mumbai, agrees to become a surrogate mother.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28569029_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715083000" stop="20250715123000" channel="51" catchup-id="80573418">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715123000" stop="20250715130000" channel="51" catchup-id="80573400">
+    <title>Safal Hogi Teri Aradhana</title>
+    <desc>In order to make money to help save her ill grandfather, Aradhana, a tiffin carrier from Mumbai, agrees to become a surrogate mother.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28569029_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715130000" stop="20250715133000" channel="51" catchup-id="80573420">
+    <title>Gudiya Rani</title>
+    <desc>Rani becomes the support system of Pari, a girl from a wealthy family. However, she strives to regain her self identity after being mistreated by her host for years.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28295207_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715133000" stop="20250715140000" channel="51" catchup-id="80573404">
+    <title>Tulsi - Hamari Badi Sayani</title>
+    <desc>After losing their two-year-old daughter, a couple struggles to have another child. But as fate would have it, they meet an orphaned young girl who would have been their daughter's age.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28568957_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715140000" stop="20250715143000" channel="51" catchup-id="80573414">
+    <title>Mann Atisundar</title>
+    <desc>Radhika is conscious about her physical appearance and strives to find someone who would appreciate her inner beauty rather than her outward looks.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029838_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715143000" stop="20250715150000" channel="51" catchup-id="80573402">
+    <title>Mann Sundar</title>
+    <desc>Ruchita is rejected by many men for her outward appearance. As she strives to cope with these challenges, she hopes to find a man who would appreciate her inner beauty.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029926_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715150000" stop="20250715153000" channel="51" catchup-id="80573416">
+    <title>Gehna Zevar Ya Zanjeer</title>
+    <desc>Gehna and Ayushman are entangled in each others lives after Gehna's mother arranges a forced marriage between the pair, causing issues between them and the family.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28193018_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715153000" stop="20250715160000" channel="51" catchup-id="80573409">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715160000" stop="20250715163000" channel="51" catchup-id="80573401">
+    <title>Deewani</title>
+    <desc>Meera idolises Parth when it comes to love and relationship. However, she ends up falling for him, while he grapples with a heartbreak.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28303883_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715163000" stop="20250715170000" channel="51" catchup-id="80573405">
+    <title>Safal Hogi Teri Aradhana</title>
+    <desc>In order to make money to help save her ill grandfather, Aradhana, a tiffin carrier from Mumbai, agrees to become a surrogate mother.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28569029_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715170000" stop="20250715173000" channel="51" catchup-id="80573426">
+    <title>Tulsi - Hamari Badi Sayani</title>
+    <desc>After losing their two-year-old daughter, a couple struggles to have another child. But as fate would have it, they meet an orphaned young girl who would have been their daughter's age.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28568957_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715173000" stop="20250715180000" channel="51" catchup-id="80573419">
+    <title>Gudiya Rani</title>
+    <desc>Rani becomes the support system of Pari, a girl from a wealthy family. However, she strives to regain her self identity after being mistreated by her host for years.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28295207_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715180000" stop="20250715223000" channel="51" catchup-id="80573406">
+    <title>Mann Atisundar</title>
+    <desc>Radhika is conscious about her physical appearance and strives to find someone who would appreciate her inner beauty rather than her outward looks.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029838_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250714183100" stop="20250714203000" channel="51" catchup-id="80573421">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250714203000" stop="20250714223000" channel="51" catchup-id="80573415">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250714223000" stop="20250715023000" channel="51" catchup-id="80573413">
+    <title>Ram Ratan Dhan Payo</title>
+    <desc>A curated compilation of different prayers, hymns and holy songs in devotion to the Hindu deities is played back to back.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27453749_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715023000" stop="20250715030000" channel="51" catchup-id="80573410">
+    <title>Mann Sundar</title>
+    <desc>Ruchita is rejected by many men for her outward appearance. As she strives to cope with these challenges, she hopes to find a man who would appreciate her inner beauty.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029926_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715030000" stop="20250715033000" channel="51" catchup-id="80573427">
+    <title>Mann Atisundar</title>
+    <desc>Radhika is conscious about her physical appearance and strives to find someone who would appreciate her inner beauty rather than her outward looks.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029838_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715033000" stop="20250715040000" channel="51" catchup-id="80573417">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715040000" stop="20250715043000" channel="51" catchup-id="80573422">
+    <title>Gehna Zevar Ya Zanjeer</title>
+    <desc>Gehna and Ayushman are entangled in each others lives after Gehna's mother arranges a forced marriage between the pair, causing issues between them and the family.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28193018_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715043000" stop="20250715050000" channel="51" catchup-id="80573408">
+    <title>Gudiya Rani</title>
+    <desc>Rani becomes the support system of Pari, a girl from a wealthy family. However, she strives to regain her self identity after being mistreated by her host for years.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28295207_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715050000" stop="20250715053000" channel="51" catchup-id="80573412">
+    <title>Tulsi - Hamari Badi Sayani</title>
+    <desc>After losing their two-year-old daughter, a couple struggles to have another child. But as fate would have it, they meet an orphaned young girl who would have been their daughter's age.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28568957_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715053000" stop="20250715060000" channel="51" catchup-id="80573407">
+    <title>Deewani</title>
+    <desc>Meera idolises Parth when it comes to love and relationship. However, she ends up falling for him, while he grapples with a heartbreak.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28303883_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715060000" stop="20250715063000" channel="51" catchup-id="80573411">
+    <title>Mann Sundar</title>
+    <desc>Ruchita is rejected by many men for her outward appearance. As she strives to cope with these challenges, she hopes to find a man who would appreciate her inner beauty.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029926_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715063000" stop="20250715070000" channel="51" catchup-id="80573403">
+    <title>Mann Atisundar</title>
+    <desc>Radhika is conscious about her physical appearance and strives to find someone who would appreciate her inner beauty rather than her outward looks.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029838_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715070000" stop="20250715073000" channel="51" catchup-id="80573425">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715073000" stop="20250715080000" channel="51" catchup-id="80573424">
+    <title>Gehna Zevar Ya Zanjeer</title>
+    <desc>Gehna and Ayushman are entangled in each others lives after Gehna's mother arranges a forced marriage between the pair, causing issues between them and the family.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28193018_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715080000" stop="20250715083000" channel="51" catchup-id="80573423">
+    <title>Safal Hogi Teri Aradhana</title>
+    <desc>In order to make money to help save her ill grandfather, Aradhana, a tiffin carrier from Mumbai, agrees to become a surrogate mother.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28569029_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715083000" stop="20250715123000" channel="51" catchup-id="80573418">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715123000" stop="20250715130000" channel="51" catchup-id="80573400">
+    <title>Safal Hogi Teri Aradhana</title>
+    <desc>In order to make money to help save her ill grandfather, Aradhana, a tiffin carrier from Mumbai, agrees to become a surrogate mother.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28569029_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715130000" stop="20250715133000" channel="51" catchup-id="80573420">
+    <title>Gudiya Rani</title>
+    <desc>Rani becomes the support system of Pari, a girl from a wealthy family. However, she strives to regain her self identity after being mistreated by her host for years.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28295207_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715133000" stop="20250715140000" channel="51" catchup-id="80573404">
+    <title>Tulsi - Hamari Badi Sayani</title>
+    <desc>After losing their two-year-old daughter, a couple struggles to have another child. But as fate would have it, they meet an orphaned young girl who would have been their daughter's age.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28568957_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715140000" stop="20250715143000" channel="51" catchup-id="80573414">
+    <title>Mann Atisundar</title>
+    <desc>Radhika is conscious about her physical appearance and strives to find someone who would appreciate her inner beauty rather than her outward looks.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029838_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715143000" stop="20250715150000" channel="51" catchup-id="80573402">
+    <title>Mann Sundar</title>
+    <desc>Ruchita is rejected by many men for her outward appearance. As she strives to cope with these challenges, she hopes to find a man who would appreciate her inner beauty.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029926_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715150000" stop="20250715153000" channel="51" catchup-id="80573416">
+    <title>Gehna Zevar Ya Zanjeer</title>
+    <desc>Gehna and Ayushman are entangled in each others lives after Gehna's mother arranges a forced marriage between the pair, causing issues between them and the family.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28193018_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715153000" stop="20250715160000" channel="51" catchup-id="80573409">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715160000" stop="20250715163000" channel="51" catchup-id="80573401">
+    <title>Deewani</title>
+    <desc>Meera idolises Parth when it comes to love and relationship. However, she ends up falling for him, while he grapples with a heartbreak.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28303883_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715163000" stop="20250715170000" channel="51" catchup-id="80573405">
+    <title>Safal Hogi Teri Aradhana</title>
+    <desc>In order to make money to help save her ill grandfather, Aradhana, a tiffin carrier from Mumbai, agrees to become a surrogate mother.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28569029_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715170000" stop="20250715173000" channel="51" catchup-id="80573426">
+    <title>Tulsi - Hamari Badi Sayani</title>
+    <desc>After losing their two-year-old daughter, a couple struggles to have another child. But as fate would have it, they meet an orphaned young girl who would have been their daughter's age.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28568957_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715173000" stop="20250715180000" channel="51" catchup-id="80573419">
+    <title>Gudiya Rani</title>
+    <desc>Rani becomes the support system of Pari, a girl from a wealthy family. However, she strives to regain her self identity after being mistreated by her host for years.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28295207_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715180000" stop="20250715223000" channel="51" catchup-id="80573406">
+    <title>Mann Atisundar</title>
+    <desc>Radhika is conscious about her physical appearance and strives to find someone who would appreciate her inner beauty rather than her outward looks.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029838_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250714183100" stop="20250714203000" channel="51" catchup-id="80573421">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250714203000" stop="20250714223000" channel="51" catchup-id="80573415">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250714223000" stop="20250715023000" channel="51" catchup-id="80573413">
+    <title>Ram Ratan Dhan Payo</title>
+    <desc>A curated compilation of different prayers, hymns and holy songs in devotion to the Hindu deities is played back to back.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27453749_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715023000" stop="20250715030000" channel="51" catchup-id="80573410">
+    <title>Mann Sundar</title>
+    <desc>Ruchita is rejected by many men for her outward appearance. As she strives to cope with these challenges, she hopes to find a man who would appreciate her inner beauty.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029926_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715030000" stop="20250715033000" channel="51" catchup-id="80573427">
+    <title>Mann Atisundar</title>
+    <desc>Radhika is conscious about her physical appearance and strives to find someone who would appreciate her inner beauty rather than her outward looks.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029838_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715033000" stop="20250715040000" channel="51" catchup-id="80573417">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715040000" stop="20250715043000" channel="51" catchup-id="80573422">
+    <title>Gehna Zevar Ya Zanjeer</title>
+    <desc>Gehna and Ayushman are entangled in each others lives after Gehna's mother arranges a forced marriage between the pair, causing issues between them and the family.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28193018_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715043000" stop="20250715050000" channel="51" catchup-id="80573408">
+    <title>Gudiya Rani</title>
+    <desc>Rani becomes the support system of Pari, a girl from a wealthy family. However, she strives to regain her self identity after being mistreated by her host for years.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28295207_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715050000" stop="20250715053000" channel="51" catchup-id="80573412">
+    <title>Tulsi - Hamari Badi Sayani</title>
+    <desc>After losing their two-year-old daughter, a couple struggles to have another child. But as fate would have it, they meet an orphaned young girl who would have been their daughter's age.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28568957_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715053000" stop="20250715060000" channel="51" catchup-id="80573407">
+    <title>Deewani</title>
+    <desc>Meera idolises Parth when it comes to love and relationship. However, she ends up falling for him, while he grapples with a heartbreak.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28303883_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715060000" stop="20250715063000" channel="51" catchup-id="80573411">
+    <title>Mann Sundar</title>
+    <desc>Ruchita is rejected by many men for her outward appearance. As she strives to cope with these challenges, she hopes to find a man who would appreciate her inner beauty.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029926_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715063000" stop="20250715070000" channel="51" catchup-id="80573403">
+    <title>Mann Atisundar</title>
+    <desc>Radhika is conscious about her physical appearance and strives to find someone who would appreciate her inner beauty rather than her outward looks.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029838_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715070000" stop="20250715073000" channel="51" catchup-id="80573425">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715073000" stop="20250715080000" channel="51" catchup-id="80573424">
+    <title>Gehna Zevar Ya Zanjeer</title>
+    <desc>Gehna and Ayushman are entangled in each others lives after Gehna's mother arranges a forced marriage between the pair, causing issues between them and the family.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28193018_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715080000" stop="20250715083000" channel="51" catchup-id="80573423">
+    <title>Safal Hogi Teri Aradhana</title>
+    <desc>In order to make money to help save her ill grandfather, Aradhana, a tiffin carrier from Mumbai, agrees to become a surrogate mother.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28569029_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715083000" stop="20250715123000" channel="51" catchup-id="80573418">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715123000" stop="20250715130000" channel="51" catchup-id="80573400">
+    <title>Safal Hogi Teri Aradhana</title>
+    <desc>In order to make money to help save her ill grandfather, Aradhana, a tiffin carrier from Mumbai, agrees to become a surrogate mother.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28569029_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715130000" stop="20250715133000" channel="51" catchup-id="80573420">
+    <title>Gudiya Rani</title>
+    <desc>Rani becomes the support system of Pari, a girl from a wealthy family. However, she strives to regain her self identity after being mistreated by her host for years.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28295207_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715133000" stop="20250715140000" channel="51" catchup-id="80573404">
+    <title>Tulsi - Hamari Badi Sayani</title>
+    <desc>After losing their two-year-old daughter, a couple struggles to have another child. But as fate would have it, they meet an orphaned young girl who would have been their daughter's age.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28568957_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715140000" stop="20250715143000" channel="51" catchup-id="80573414">
+    <title>Mann Atisundar</title>
+    <desc>Radhika is conscious about her physical appearance and strives to find someone who would appreciate her inner beauty rather than her outward looks.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029838_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715143000" stop="20250715150000" channel="51" catchup-id="80573402">
+    <title>Mann Sundar</title>
+    <desc>Ruchita is rejected by many men for her outward appearance. As she strives to cope with these challenges, she hopes to find a man who would appreciate her inner beauty.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029926_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715150000" stop="20250715153000" channel="51" catchup-id="80573416">
+    <title>Gehna Zevar Ya Zanjeer</title>
+    <desc>Gehna and Ayushman are entangled in each others lives after Gehna's mother arranges a forced marriage between the pair, causing issues between them and the family.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28193018_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715153000" stop="20250715160000" channel="51" catchup-id="80573409">
+    <title>Movie</title>
+    <desc>Movie</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p12971380_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715160000" stop="20250715163000" channel="51" catchup-id="80573401">
+    <title>Deewani</title>
+    <desc>Meera idolises Parth when it comes to love and relationship. However, she ends up falling for him, while he grapples with a heartbreak.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28303883_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715163000" stop="20250715170000" channel="51" catchup-id="80573405">
+    <title>Safal Hogi Teri Aradhana</title>
+    <desc>In order to make money to help save her ill grandfather, Aradhana, a tiffin carrier from Mumbai, agrees to become a surrogate mother.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28569029_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715170000" stop="20250715173000" channel="51" catchup-id="80573426">
+    <title>Tulsi - Hamari Badi Sayani</title>
+    <desc>After losing their two-year-old daughter, a couple struggles to have another child. But as fate would have it, they meet an orphaned young girl who would have been their daughter's age.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28568957_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715173000" stop="20250715180000" channel="51" catchup-id="80573419">
+    <title>Gudiya Rani</title>
+    <desc>Rani becomes the support system of Pari, a girl from a wealthy family. However, she strives to regain her self identity after being mistreated by her host for years.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28295207_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715180000" stop="20250715223000" channel="51" catchup-id="80573406">
+    <title>Mann Atisundar</title>
+    <desc>Radhika is conscious about her physical appearance and strives to find someone who would appreciate her inner beauty rather than her outward looks.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27029838_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715003000" stop="20250715010000" channel="52" catchup-id="80573067">
+    <title>Parineetii</title>
+    <desc>Neeti plans with Nisha to get her close to Aditya and sway him to get married to her. Meanwhile, Preet confesses to her mother and sister that she doesn't hate Aditya. S01 E1175.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467617_e_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715010000" stop="20250715013000" channel="52" catchup-id="80573062">
+    <title>Meri Bhavya Life</title>
+    <desc>Sakshi, Bua Maa and Rhea plan together to rid Bhavya out of Rishank's life. Meanwhile, Rishank and Bhavya clear the misunderstandings between each other. S01 E76.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467417_e_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715013000" stop="20250715023000" channel="52" catchup-id="80573061">
+    <title>Mangal Lakshmi</title>
+    <desc>Ishana gets blackmailed by her friend after he shows her a video of her. Meanwhile, Jiya and Kartik think of a plan to teach Jiya a lesson. S01 E503.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30466267_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715023000" stop="20250715080000" channel="52" catchup-id="80573065">
+    <title>Laughter Chefs Unlimited Entertainment</title>
+    <desc>Celebrity duos tackle culinary challenges set by a renowned chef while engaging in communal activities to captivate viewers with their cooking skills and teamwork.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27449172_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715080000" stop="20250715123000" channel="52" catchup-id="80573060">
+    <title>Thapki Pyar Ki</title>
+    <desc>Thapki, a lively and intelligent girl, faces certain problems that affect her life. However, she decides to move to a city in order to find a job and meet all her challenges with a positive attitude.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p11780689_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715123000" stop="20250715133000" channel="52" catchup-id="80670735">
+    <title>Mannat Harr Khushi Paane Ki</title>
+    <desc>Mannat discovers that Malla lied to Vikrant to trap him into marry her. Later, Mannat vows to expose the truth and win Vikrant back. S01 E136.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30466679_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715133000" stop="20250715140000" channel="52" catchup-id="80573068">
+    <title>Meri Bhavya Life</title>
+    <desc>Bhavya and Rishank, who are polar opposites, find their paths crossing, as the two develop feelings and strive to navigate their differences. S01 E77.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467418_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715140000" stop="20250715143000" channel="52" catchup-id="80573064">
+    <title>Parineetii</title>
+    <desc>Pari Kakkar and Neeti Juneja face a real test of friendship and loyalty after fate plays a cruel trick, tying the strings of their hearts to the same man. S01 E1176.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467618_e_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715143000" stop="20250715150000" channel="52" catchup-id="80573066">
+    <title>Shiv Shakti: Tap Tyaag Taandav</title>
+    <desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity. S01 E751.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30468346_e_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715150000" stop="20250715153000" channel="52" catchup-id="80573063">
+    <title>Noyontara</title>
+    <desc>Noyontara's ability to communicate with spirits enables her to bridge the gap between realms and uncover veiled truths. Her marriage into the Sengupta family sets in motion a series of revelations. S01 E37.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467565_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715153000" stop="20250715160000" channel="52" catchup-id="80573059">
+    <title>Mangal Lakshmi</title>
+    <desc>Mangal sets off on a journey to find an ideal match for Lakshmi. However, love and trials test their sisterhood, unveiling destiny's power. S01 E504.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30466268_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715160000" stop="20250715163000" channel="52" catchup-id="80573069">
+    <title>Mangal Lakshmi</title>
+    <desc>Mangal is surprised by Adit's arrival with Lipika. Later, Adit grows anxious when Lipika makes a shocking confession before Mangal. S01 E151.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27617359_b_h11_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715163000" stop="20250715173000" channel="52" catchup-id="80573071">
+    <title>Mannat Harr Khushi Paane Ki</title>
+    <desc>Mannat, a gifted young chef, dreams big but faces a formidable obstacle, her ruthless employer Aishwarya. Unknown to both, Aishwarya is also Mannat's birth mother who abandoned her when she was born. S01 E137.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30466680_e_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715173000" stop="20250715180000" channel="52" catchup-id="80670736">
+    <title>Noyontara</title>
+    <desc>Noyontara's ability to communicate with spirits enables her to bridge the gap between realms and uncover veiled truths. Her marriage into the Sengupta family sets in motion a series of revelations. S01 E37.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467565_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715180000" stop="20250716003000" channel="52" catchup-id="80573070">
+    <title>Laughter Chefs Unlimited Entertainment</title>
+    <desc>Celebrity duos tackle culinary challenges set by a renowned chef while engaging in communal activities to captivate viewers with their cooking skills and teamwork.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27449172_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715003000" stop="20250715010000" channel="52" catchup-id="80573067">
+    <title>Parineetii</title>
+    <desc>Neeti plans with Nisha to get her close to Aditya and sway him to get married to her. Meanwhile, Preet confesses to her mother and sister that she doesn't hate Aditya. S01 E1175.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467617_e_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715010000" stop="20250715013000" channel="52" catchup-id="80573062">
+    <title>Meri Bhavya Life</title>
+    <desc>Sakshi, Bua Maa and Rhea plan together to rid Bhavya out of Rishank's life. Meanwhile, Rishank and Bhavya clear the misunderstandings between each other. S01 E76.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467417_e_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715013000" stop="20250715023000" channel="52" catchup-id="80573061">
+    <title>Mangal Lakshmi</title>
+    <desc>Ishana gets blackmailed by her friend after he shows her a video of her. Meanwhile, Jiya and Kartik think of a plan to teach Jiya a lesson. S01 E503.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30466267_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715023000" stop="20250715080000" channel="52" catchup-id="80573065">
+    <title>Laughter Chefs Unlimited Entertainment</title>
+    <desc>Celebrity duos tackle culinary challenges set by a renowned chef while engaging in communal activities to captivate viewers with their cooking skills and teamwork.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27449172_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715080000" stop="20250715123000" channel="52" catchup-id="80573060">
+    <title>Thapki Pyar Ki</title>
+    <desc>Thapki, a lively and intelligent girl, faces certain problems that affect her life. However, she decides to move to a city in order to find a job and meet all her challenges with a positive attitude.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p11780689_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715123000" stop="20250715133000" channel="52" catchup-id="80670735">
+    <title>Mannat Harr Khushi Paane Ki</title>
+    <desc>Mannat discovers that Malla lied to Vikrant to trap him into marry her. Later, Mannat vows to expose the truth and win Vikrant back. S01 E136.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30466679_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715133000" stop="20250715140000" channel="52" catchup-id="80573068">
+    <title>Meri Bhavya Life</title>
+    <desc>Bhavya and Rishank, who are polar opposites, find their paths crossing, as the two develop feelings and strive to navigate their differences. S01 E77.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467418_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715140000" stop="20250715143000" channel="52" catchup-id="80573064">
+    <title>Parineetii</title>
+    <desc>Pari Kakkar and Neeti Juneja face a real test of friendship and loyalty after fate plays a cruel trick, tying the strings of their hearts to the same man. S01 E1176.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467618_e_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715143000" stop="20250715150000" channel="52" catchup-id="80573066">
+    <title>Shiv Shakti: Tap Tyaag Taandav</title>
+    <desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity. S01 E751.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30468346_e_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715150000" stop="20250715153000" channel="52" catchup-id="80573063">
+    <title>Noyontara</title>
+    <desc>Noyontara's ability to communicate with spirits enables her to bridge the gap between realms and uncover veiled truths. Her marriage into the Sengupta family sets in motion a series of revelations. S01 E37.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467565_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715153000" stop="20250715160000" channel="52" catchup-id="80573059">
+    <title>Mangal Lakshmi</title>
+    <desc>Mangal sets off on a journey to find an ideal match for Lakshmi. However, love and trials test their sisterhood, unveiling destiny's power. S01 E504.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30466268_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715160000" stop="20250715163000" channel="52" catchup-id="80573069">
+    <title>Mangal Lakshmi</title>
+    <desc>Mangal is surprised by Adit's arrival with Lipika. Later, Adit grows anxious when Lipika makes a shocking confession before Mangal. S01 E151.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27617359_b_h11_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715163000" stop="20250715173000" channel="52" catchup-id="80573071">
+    <title>Mannat Harr Khushi Paane Ki</title>
+    <desc>Mannat, a gifted young chef, dreams big but faces a formidable obstacle, her ruthless employer Aishwarya. Unknown to both, Aishwarya is also Mannat's birth mother who abandoned her when she was born. S01 E137.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30466680_e_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715173000" stop="20250715180000" channel="52" catchup-id="80670736">
+    <title>Noyontara</title>
+    <desc>Noyontara's ability to communicate with spirits enables her to bridge the gap between realms and uncover veiled truths. Her marriage into the Sengupta family sets in motion a series of revelations. S01 E37.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467565_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715180000" stop="20250716003000" channel="52" catchup-id="80573070">
+    <title>Laughter Chefs Unlimited Entertainment</title>
+    <desc>Celebrity duos tackle culinary challenges set by a renowned chef while engaging in communal activities to captivate viewers with their cooking skills and teamwork.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27449172_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715003000" stop="20250715010000" channel="52" catchup-id="80573067">
+    <title>Parineetii</title>
+    <desc>Neeti plans with Nisha to get her close to Aditya and sway him to get married to her. Meanwhile, Preet confesses to her mother and sister that she doesn't hate Aditya. S01 E1175.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467617_e_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715010000" stop="20250715013000" channel="52" catchup-id="80573062">
+    <title>Meri Bhavya Life</title>
+    <desc>Sakshi, Bua Maa and Rhea plan together to rid Bhavya out of Rishank's life. Meanwhile, Rishank and Bhavya clear the misunderstandings between each other. S01 E76.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467417_e_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715013000" stop="20250715023000" channel="52" catchup-id="80573061">
+    <title>Mangal Lakshmi</title>
+    <desc>Ishana gets blackmailed by her friend after he shows her a video of her. Meanwhile, Jiya and Kartik think of a plan to teach Jiya a lesson. S01 E503.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30466267_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715023000" stop="20250715080000" channel="52" catchup-id="80573065">
+    <title>Laughter Chefs Unlimited Entertainment</title>
+    <desc>Celebrity duos tackle culinary challenges set by a renowned chef while engaging in communal activities to captivate viewers with their cooking skills and teamwork.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27449172_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715080000" stop="20250715123000" channel="52" catchup-id="80573060">
+    <title>Thapki Pyar Ki</title>
+    <desc>Thapki, a lively and intelligent girl, faces certain problems that affect her life. However, she decides to move to a city in order to find a job and meet all her challenges with a positive attitude.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p11780689_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715123000" stop="20250715133000" channel="52" catchup-id="80670735">
+    <title>Mannat Harr Khushi Paane Ki</title>
+    <desc>Mannat discovers that Malla lied to Vikrant to trap him into marry her. Later, Mannat vows to expose the truth and win Vikrant back. S01 E136.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30466679_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715133000" stop="20250715140000" channel="52" catchup-id="80573068">
+    <title>Meri Bhavya Life</title>
+    <desc>Bhavya and Rishank, who are polar opposites, find their paths crossing, as the two develop feelings and strive to navigate their differences. S01 E77.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467418_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715140000" stop="20250715143000" channel="52" catchup-id="80573064">
+    <title>Parineetii</title>
+    <desc>Pari Kakkar and Neeti Juneja face a real test of friendship and loyalty after fate plays a cruel trick, tying the strings of their hearts to the same man. S01 E1176.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467618_e_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715143000" stop="20250715150000" channel="52" catchup-id="80573066">
+    <title>Shiv Shakti: Tap Tyaag Taandav</title>
+    <desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity. S01 E751.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30468346_e_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715150000" stop="20250715153000" channel="52" catchup-id="80573063">
+    <title>Noyontara</title>
+    <desc>Noyontara's ability to communicate with spirits enables her to bridge the gap between realms and uncover veiled truths. Her marriage into the Sengupta family sets in motion a series of revelations. S01 E37.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467565_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715153000" stop="20250715160000" channel="52" catchup-id="80573059">
+    <title>Mangal Lakshmi</title>
+    <desc>Mangal sets off on a journey to find an ideal match for Lakshmi. However, love and trials test their sisterhood, unveiling destiny's power. S01 E504.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30466268_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715160000" stop="20250715163000" channel="52" catchup-id="80573069">
+    <title>Mangal Lakshmi</title>
+    <desc>Mangal is surprised by Adit's arrival with Lipika. Later, Adit grows anxious when Lipika makes a shocking confession before Mangal. S01 E151.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27617359_b_h11_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715163000" stop="20250715173000" channel="52" catchup-id="80573071">
+    <title>Mannat Harr Khushi Paane Ki</title>
+    <desc>Mannat, a gifted young chef, dreams big but faces a formidable obstacle, her ruthless employer Aishwarya. Unknown to both, Aishwarya is also Mannat's birth mother who abandoned her when she was born. S01 E137.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30466680_e_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715173000" stop="20250715180000" channel="52" catchup-id="80670736">
+    <title>Noyontara</title>
+    <desc>Noyontara's ability to communicate with spirits enables her to bridge the gap between realms and uncover veiled truths. Her marriage into the Sengupta family sets in motion a series of revelations. S01 E37.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467565_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715180000" stop="20250716003000" channel="52" catchup-id="80573070">
+    <title>Laughter Chefs Unlimited Entertainment</title>
+    <desc>Celebrity duos tackle culinary challenges set by a renowned chef while engaging in communal activities to captivate viewers with their cooking skills and teamwork.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27449172_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715003000" stop="20250715010000" channel="52" catchup-id="80573067">
+    <title>Parineetii</title>
+    <desc>Neeti plans with Nisha to get her close to Aditya and sway him to get married to her. Meanwhile, Preet confesses to her mother and sister that she doesn't hate Aditya. S01 E1175.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467617_e_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715010000" stop="20250715013000" channel="52" catchup-id="80573062">
+    <title>Meri Bhavya Life</title>
+    <desc>Sakshi, Bua Maa and Rhea plan together to rid Bhavya out of Rishank's life. Meanwhile, Rishank and Bhavya clear the misunderstandings between each other. S01 E76.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467417_e_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715013000" stop="20250715023000" channel="52" catchup-id="80573061">
+    <title>Mangal Lakshmi</title>
+    <desc>Ishana gets blackmailed by her friend after he shows her a video of her. Meanwhile, Jiya and Kartik think of a plan to teach Jiya a lesson. S01 E503.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30466267_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715023000" stop="20250715080000" channel="52" catchup-id="80573065">
+    <title>Laughter Chefs Unlimited Entertainment</title>
+    <desc>Celebrity duos tackle culinary challenges set by a renowned chef while engaging in communal activities to captivate viewers with their cooking skills and teamwork.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27449172_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715080000" stop="20250715123000" channel="52" catchup-id="80573060">
+    <title>Thapki Pyar Ki</title>
+    <desc>Thapki, a lively and intelligent girl, faces certain problems that affect her life. However, she decides to move to a city in order to find a job and meet all her challenges with a positive attitude.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p11780689_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715123000" stop="20250715133000" channel="52" catchup-id="80670735">
+    <title>Mannat Harr Khushi Paane Ki</title>
+    <desc>Mannat discovers that Malla lied to Vikrant to trap him into marry her. Later, Mannat vows to expose the truth and win Vikrant back. S01 E136.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30466679_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715133000" stop="20250715140000" channel="52" catchup-id="80573068">
+    <title>Meri Bhavya Life</title>
+    <desc>Bhavya and Rishank, who are polar opposites, find their paths crossing, as the two develop feelings and strive to navigate their differences. S01 E77.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467418_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715140000" stop="20250715143000" channel="52" catchup-id="80573064">
+    <title>Parineetii</title>
+    <desc>Pari Kakkar and Neeti Juneja face a real test of friendship and loyalty after fate plays a cruel trick, tying the strings of their hearts to the same man. S01 E1176.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467618_e_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715143000" stop="20250715150000" channel="52" catchup-id="80573066">
+    <title>Shiv Shakti: Tap Tyaag Taandav</title>
+    <desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity. S01 E751.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30468346_e_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715150000" stop="20250715153000" channel="52" catchup-id="80573063">
+    <title>Noyontara</title>
+    <desc>Noyontara's ability to communicate with spirits enables her to bridge the gap between realms and uncover veiled truths. Her marriage into the Sengupta family sets in motion a series of revelations. S01 E37.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467565_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715153000" stop="20250715160000" channel="52" catchup-id="80573059">
+    <title>Mangal Lakshmi</title>
+    <desc>Mangal sets off on a journey to find an ideal match for Lakshmi. However, love and trials test their sisterhood, unveiling destiny's power. S01 E504.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30466268_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715160000" stop="20250715163000" channel="52" catchup-id="80573069">
+    <title>Mangal Lakshmi</title>
+    <desc>Mangal is surprised by Adit's arrival with Lipika. Later, Adit grows anxious when Lipika makes a shocking confession before Mangal. S01 E151.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27617359_b_h11_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715163000" stop="20250715173000" channel="52" catchup-id="80573071">
+    <title>Mannat Harr Khushi Paane Ki</title>
+    <desc>Mannat, a gifted young chef, dreams big but faces a formidable obstacle, her ruthless employer Aishwarya. Unknown to both, Aishwarya is also Mannat's birth mother who abandoned her when she was born. S01 E137.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30466680_e_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715173000" stop="20250715180000" channel="52" catchup-id="80670736">
+    <title>Noyontara</title>
+    <desc>Noyontara's ability to communicate with spirits enables her to bridge the gap between realms and uncover veiled truths. Her marriage into the Sengupta family sets in motion a series of revelations. S01 E37.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467565_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715180000" stop="20250716003000" channel="52" catchup-id="80573070">
+    <title>Laughter Chefs Unlimited Entertainment</title>
+    <desc>Celebrity duos tackle culinary challenges set by a renowned chef while engaging in communal activities to captivate viewers with their cooking skills and teamwork.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27449172_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715003000" stop="20250715010000" channel="52" catchup-id="80573067">
+    <title>Parineetii</title>
+    <desc>Neeti plans with Nisha to get her close to Aditya and sway him to get married to her. Meanwhile, Preet confesses to her mother and sister that she doesn't hate Aditya. S01 E1175.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467617_e_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715010000" stop="20250715013000" channel="52" catchup-id="80573062">
+    <title>Meri Bhavya Life</title>
+    <desc>Sakshi, Bua Maa and Rhea plan together to rid Bhavya out of Rishank's life. Meanwhile, Rishank and Bhavya clear the misunderstandings between each other. S01 E76.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467417_e_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715013000" stop="20250715023000" channel="52" catchup-id="80573061">
+    <title>Mangal Lakshmi</title>
+    <desc>Ishana gets blackmailed by her friend after he shows her a video of her. Meanwhile, Jiya and Kartik think of a plan to teach Jiya a lesson. S01 E503.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30466267_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715023000" stop="20250715080000" channel="52" catchup-id="80573065">
+    <title>Laughter Chefs Unlimited Entertainment</title>
+    <desc>Celebrity duos tackle culinary challenges set by a renowned chef while engaging in communal activities to captivate viewers with their cooking skills and teamwork.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27449172_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715080000" stop="20250715123000" channel="52" catchup-id="80573060">
+    <title>Thapki Pyar Ki</title>
+    <desc>Thapki, a lively and intelligent girl, faces certain problems that affect her life. However, she decides to move to a city in order to find a job and meet all her challenges with a positive attitude.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p11780689_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715123000" stop="20250715133000" channel="52" catchup-id="80670735">
+    <title>Mannat Harr Khushi Paane Ki</title>
+    <desc>Mannat discovers that Malla lied to Vikrant to trap him into marry her. Later, Mannat vows to expose the truth and win Vikrant back. S01 E136.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30466679_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715133000" stop="20250715140000" channel="52" catchup-id="80573068">
+    <title>Meri Bhavya Life</title>
+    <desc>Bhavya and Rishank, who are polar opposites, find their paths crossing, as the two develop feelings and strive to navigate their differences. S01 E77.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467418_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715140000" stop="20250715143000" channel="52" catchup-id="80573064">
+    <title>Parineetii</title>
+    <desc>Pari Kakkar and Neeti Juneja face a real test of friendship and loyalty after fate plays a cruel trick, tying the strings of their hearts to the same man. S01 E1176.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467618_e_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715143000" stop="20250715150000" channel="52" catchup-id="80573066">
+    <title>Shiv Shakti: Tap Tyaag Taandav</title>
+    <desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity. S01 E751.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30468346_e_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715150000" stop="20250715153000" channel="52" catchup-id="80573063">
+    <title>Noyontara</title>
+    <desc>Noyontara's ability to communicate with spirits enables her to bridge the gap between realms and uncover veiled truths. Her marriage into the Sengupta family sets in motion a series of revelations. S01 E37.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467565_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715153000" stop="20250715160000" channel="52" catchup-id="80573059">
+    <title>Mangal Lakshmi</title>
+    <desc>Mangal sets off on a journey to find an ideal match for Lakshmi. However, love and trials test their sisterhood, unveiling destiny's power. S01 E504.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30466268_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715160000" stop="20250715163000" channel="52" catchup-id="80573069">
+    <title>Mangal Lakshmi</title>
+    <desc>Mangal is surprised by Adit's arrival with Lipika. Later, Adit grows anxious when Lipika makes a shocking confession before Mangal. S01 E151.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27617359_b_h11_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715163000" stop="20250715173000" channel="52" catchup-id="80573071">
+    <title>Mannat Harr Khushi Paane Ki</title>
+    <desc>Mannat, a gifted young chef, dreams big but faces a formidable obstacle, her ruthless employer Aishwarya. Unknown to both, Aishwarya is also Mannat's birth mother who abandoned her when she was born. S01 E137.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30466680_e_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715173000" stop="20250715180000" channel="52" catchup-id="80670736">
+    <title>Noyontara</title>
+    <desc>Noyontara's ability to communicate with spirits enables her to bridge the gap between realms and uncover veiled truths. Her marriage into the Sengupta family sets in motion a series of revelations. S01 E37.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p30467565_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715180000" stop="20250716003000" channel="52" catchup-id="80573070">
+    <title>Laughter Chefs Unlimited Entertainment</title>
+    <desc>Celebrity duos tackle culinary challenges set by a renowned chef while engaging in communal activities to captivate viewers with their cooking skills and teamwork.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p27449172_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250714193700" stop="20250714223000" channel="61" catchup-id="80761385">
+    <title>Raw</title>
+    <desc>When tragedy strikes a group of young filmmakers in the forest, the sole survivor must confront her trauma to reveal the truth about Grete Muller's legendary tale.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p14670684_b_h11_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250714223000" stop="20250715003000" channel="61" catchup-id="80572669">
+    <title>Kodathi Samaksham Balan Vakeel</title>
+    <desc>Balakrishnan, a lawyer, is not successful at his job due to his severe stammer. However, things begin to change when he is entrusted with a deeply complex case.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p16613431_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715003000" stop="20250715033000" channel="61" catchup-id="80572670">
+    <title>Thackeray</title>
+    <desc>Balasaheb Thackeray, a cartoonist with a no-nonsense personality, plays a key role in the birth of the Shiv Sena and goes on to become the most influential political leader in Maharashtra.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p16501675_v_h10_ag.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715033000" stop="20250715063000" channel="61" catchup-id="80572674">
+    <title>Rocketry: The Nambi Effect</title>
+    <desc>The life of Nambi Narayanan is full of struggles and accomplishments as an aerospace engineer. However, he faces his biggest challenge while working at ISRO when the world accuses him of treason.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p18534972_v_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715063000" stop="20250715093000" channel="61" catchup-id="80572671">
+    <title>Dhruva</title>
+    <desc>A committed police officer, Dhruva, uncovers a web of organised crime headed by a scientist, Siddharth Abhimanyu. But when Dhruva tries to build a case against him, he faces many challenges.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p13562770_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715093000" stop="20250715113000" channel="61" catchup-id="80572677">
+    <title>Andhadhun</title>
+    <desc>Akash, a piano player pretending to be visually-impaired, unwittingly becomes entangled in a number of problems as he witnesses the murder of a former film actor.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p16067915_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715113000" stop="20250715143000" channel="61" catchup-id="80572673">
+    <title>Kali Kitaab</title>
+    <desc>When narratives from a cryptic book spring to life, a woman experiences bizarre phenomena and resolves to uncover the identity of its enigmatic writer.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28988371_v_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715143000" stop="20250715170000" channel="61" catchup-id="80572678">
+    <title>Sindhubaadh</title>
+    <desc>Thiru, a small-time thief, embarks on a daring mission to Thailand to rescue Vendba, his wife, from a human trafficking gang.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p17057796_v_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715170000" stop="20250715190000" channel="61" catchup-id="80572675">
+    <title>Custody</title>
+    <desc>A police constable's life takes a drastic turn when he is entrusted with producing a criminal in court. While the mobster remains under his custody, Shiva must dodge every threat to keep him alive.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p24654798_v_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250714193700" stop="20250714223000" channel="61" catchup-id="80761385">
+    <title>Raw</title>
+    <desc>When tragedy strikes a group of young filmmakers in the forest, the sole survivor must confront her trauma to reveal the truth about Grete Muller's legendary tale.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p14670684_b_h11_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250714223000" stop="20250715003000" channel="61" catchup-id="80572669">
+    <title>Kodathi Samaksham Balan Vakeel</title>
+    <desc>Balakrishnan, a lawyer, is not successful at his job due to his severe stammer. However, things begin to change when he is entrusted with a deeply complex case.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p16613431_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715003000" stop="20250715033000" channel="61" catchup-id="80572670">
+    <title>Thackeray</title>
+    <desc>Balasaheb Thackeray, a cartoonist with a no-nonsense personality, plays a key role in the birth of the Shiv Sena and goes on to become the most influential political leader in Maharashtra.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p16501675_v_h10_ag.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715033000" stop="20250715063000" channel="61" catchup-id="80572674">
+    <title>Rocketry: The Nambi Effect</title>
+    <desc>The life of Nambi Narayanan is full of struggles and accomplishments as an aerospace engineer. However, he faces his biggest challenge while working at ISRO when the world accuses him of treason.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p18534972_v_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715063000" stop="20250715093000" channel="61" catchup-id="80572671">
+    <title>Dhruva</title>
+    <desc>A committed police officer, Dhruva, uncovers a web of organised crime headed by a scientist, Siddharth Abhimanyu. But when Dhruva tries to build a case against him, he faces many challenges.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p13562770_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715093000" stop="20250715113000" channel="61" catchup-id="80572677">
+    <title>Andhadhun</title>
+    <desc>Akash, a piano player pretending to be visually-impaired, unwittingly becomes entangled in a number of problems as he witnesses the murder of a former film actor.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p16067915_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715113000" stop="20250715143000" channel="61" catchup-id="80572673">
+    <title>Kali Kitaab</title>
+    <desc>When narratives from a cryptic book spring to life, a woman experiences bizarre phenomena and resolves to uncover the identity of its enigmatic writer.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28988371_v_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715143000" stop="20250715170000" channel="61" catchup-id="80572678">
+    <title>Sindhubaadh</title>
+    <desc>Thiru, a small-time thief, embarks on a daring mission to Thailand to rescue Vendba, his wife, from a human trafficking gang.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p17057796_v_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715170000" stop="20250715190000" channel="61" catchup-id="80572675">
+    <title>Custody</title>
+    <desc>A police constable's life takes a drastic turn when he is entrusted with producing a criminal in court. While the mobster remains under his custody, Shiva must dodge every threat to keep him alive.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p24654798_v_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250714193700" stop="20250714223000" channel="61" catchup-id="80761385">
+    <title>Raw</title>
+    <desc>When tragedy strikes a group of young filmmakers in the forest, the sole survivor must confront her trauma to reveal the truth about Grete Muller's legendary tale.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p14670684_b_h11_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250714223000" stop="20250715003000" channel="61" catchup-id="80572669">
+    <title>Kodathi Samaksham Balan Vakeel</title>
+    <desc>Balakrishnan, a lawyer, is not successful at his job due to his severe stammer. However, things begin to change when he is entrusted with a deeply complex case.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p16613431_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715003000" stop="20250715033000" channel="61" catchup-id="80572670">
+    <title>Thackeray</title>
+    <desc>Balasaheb Thackeray, a cartoonist with a no-nonsense personality, plays a key role in the birth of the Shiv Sena and goes on to become the most influential political leader in Maharashtra.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p16501675_v_h10_ag.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715033000" stop="20250715063000" channel="61" catchup-id="80572674">
+    <title>Rocketry: The Nambi Effect</title>
+    <desc>The life of Nambi Narayanan is full of struggles and accomplishments as an aerospace engineer. However, he faces his biggest challenge while working at ISRO when the world accuses him of treason.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p18534972_v_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715063000" stop="20250715093000" channel="61" catchup-id="80572671">
+    <title>Dhruva</title>
+    <desc>A committed police officer, Dhruva, uncovers a web of organised crime headed by a scientist, Siddharth Abhimanyu. But when Dhruva tries to build a case against him, he faces many challenges.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p13562770_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715093000" stop="20250715113000" channel="61" catchup-id="80572677">
+    <title>Andhadhun</title>
+    <desc>Akash, a piano player pretending to be visually-impaired, unwittingly becomes entangled in a number of problems as he witnesses the murder of a former film actor.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p16067915_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715113000" stop="20250715143000" channel="61" catchup-id="80572673">
+    <title>Kali Kitaab</title>
+    <desc>When narratives from a cryptic book spring to life, a woman experiences bizarre phenomena and resolves to uncover the identity of its enigmatic writer.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28988371_v_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715143000" stop="20250715170000" channel="61" catchup-id="80572678">
+    <title>Sindhubaadh</title>
+    <desc>Thiru, a small-time thief, embarks on a daring mission to Thailand to rescue Vendba, his wife, from a human trafficking gang.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p17057796_v_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715170000" stop="20250715190000" channel="61" catchup-id="80572675">
+    <title>Custody</title>
+    <desc>A police constable's life takes a drastic turn when he is entrusted with producing a criminal in court. While the mobster remains under his custody, Shiva must dodge every threat to keep him alive.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p24654798_v_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250714193700" stop="20250714223000" channel="61" catchup-id="80761385">
+    <title>Raw</title>
+    <desc>When tragedy strikes a group of young filmmakers in the forest, the sole survivor must confront her trauma to reveal the truth about Grete Muller's legendary tale.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p14670684_b_h11_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250714223000" stop="20250715003000" channel="61" catchup-id="80572669">
+    <title>Kodathi Samaksham Balan Vakeel</title>
+    <desc>Balakrishnan, a lawyer, is not successful at his job due to his severe stammer. However, things begin to change when he is entrusted with a deeply complex case.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p16613431_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715003000" stop="20250715033000" channel="61" catchup-id="80572670">
+    <title>Thackeray</title>
+    <desc>Balasaheb Thackeray, a cartoonist with a no-nonsense personality, plays a key role in the birth of the Shiv Sena and goes on to become the most influential political leader in Maharashtra.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p16501675_v_h10_ag.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715033000" stop="20250715063000" channel="61" catchup-id="80572674">
+    <title>Rocketry: The Nambi Effect</title>
+    <desc>The life of Nambi Narayanan is full of struggles and accomplishments as an aerospace engineer. However, he faces his biggest challenge while working at ISRO when the world accuses him of treason.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p18534972_v_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715063000" stop="20250715093000" channel="61" catchup-id="80572671">
+    <title>Dhruva</title>
+    <desc>A committed police officer, Dhruva, uncovers a web of organised crime headed by a scientist, Siddharth Abhimanyu. But when Dhruva tries to build a case against him, he faces many challenges.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p13562770_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715093000" stop="20250715113000" channel="61" catchup-id="80572677">
+    <title>Andhadhun</title>
+    <desc>Akash, a piano player pretending to be visually-impaired, unwittingly becomes entangled in a number of problems as he witnesses the murder of a former film actor.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p16067915_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715113000" stop="20250715143000" channel="61" catchup-id="80572673">
+    <title>Kali Kitaab</title>
+    <desc>When narratives from a cryptic book spring to life, a woman experiences bizarre phenomena and resolves to uncover the identity of its enigmatic writer.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28988371_v_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715143000" stop="20250715170000" channel="61" catchup-id="80572678">
+    <title>Sindhubaadh</title>
+    <desc>Thiru, a small-time thief, embarks on a daring mission to Thailand to rescue Vendba, his wife, from a human trafficking gang.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p17057796_v_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715170000" stop="20250715190000" channel="61" catchup-id="80572675">
+    <title>Custody</title>
+    <desc>A police constable's life takes a drastic turn when he is entrusted with producing a criminal in court. While the mobster remains under his custody, Shiva must dodge every threat to keep him alive.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p24654798_v_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250714193700" stop="20250714223000" channel="61" catchup-id="80761385">
+    <title>Raw</title>
+    <desc>When tragedy strikes a group of young filmmakers in the forest, the sole survivor must confront her trauma to reveal the truth about Grete Muller's legendary tale.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p14670684_b_h11_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250714223000" stop="20250715003000" channel="61" catchup-id="80572669">
+    <title>Kodathi Samaksham Balan Vakeel</title>
+    <desc>Balakrishnan, a lawyer, is not successful at his job due to his severe stammer. However, things begin to change when he is entrusted with a deeply complex case.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p16613431_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715003000" stop="20250715033000" channel="61" catchup-id="80572670">
+    <title>Thackeray</title>
+    <desc>Balasaheb Thackeray, a cartoonist with a no-nonsense personality, plays a key role in the birth of the Shiv Sena and goes on to become the most influential political leader in Maharashtra.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p16501675_v_h10_ag.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715033000" stop="20250715063000" channel="61" catchup-id="80572674">
+    <title>Rocketry: The Nambi Effect</title>
+    <desc>The life of Nambi Narayanan is full of struggles and accomplishments as an aerospace engineer. However, he faces his biggest challenge while working at ISRO when the world accuses him of treason.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p18534972_v_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715063000" stop="20250715093000" channel="61" catchup-id="80572671">
+    <title>Dhruva</title>
+    <desc>A committed police officer, Dhruva, uncovers a web of organised crime headed by a scientist, Siddharth Abhimanyu. But when Dhruva tries to build a case against him, he faces many challenges.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p13562770_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715093000" stop="20250715113000" channel="61" catchup-id="80572677">
+    <title>Andhadhun</title>
+    <desc>Akash, a piano player pretending to be visually-impaired, unwittingly becomes entangled in a number of problems as he witnesses the murder of a former film actor.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p16067915_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715113000" stop="20250715143000" channel="61" catchup-id="80572673">
+    <title>Kali Kitaab</title>
+    <desc>When narratives from a cryptic book spring to life, a woman experiences bizarre phenomena and resolves to uncover the identity of its enigmatic writer.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p28988371_v_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715143000" stop="20250715170000" channel="61" catchup-id="80572678">
+    <title>Sindhubaadh</title>
+    <desc>Thiru, a small-time thief, embarks on a daring mission to Thailand to rescue Vendba, his wife, from a human trafficking gang.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p17057796_v_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20250715170000" stop="20250715190000" channel="61" catchup-id="80572675">
+    <title>Custody</title>
+    <desc>A police constable's life takes a drastic turn when he is entrusted with producing a criminal in court. While the mobster remains under his custody, Shiva must dodge every threat to keep him alive.</desc>
+    <icon src="http://ttpl.tmsimg.com/assets/p24654798_v_h10_aa.jpg?lock=1280x720" />
   </programme>
   </tv>
