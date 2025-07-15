@@ -6,7 +6,6 @@ import shutil
 
 print("🔧 Starting EPG filter process...")
 
-# Step 1: Read EPG URL from environment variable
 epg_url = os.getenv("EPG_URL_1")
 
 print("📥 Checking environment variable...")
@@ -14,10 +13,8 @@ if not epg_url:
     print("❌ EPG_URL_1 is missing.")
     exit(1)
 
-# ✅ Step 2: Set channel IDs to filter (must be strings)
-target_channel_ids = {"8"}  # Add more as needed, e.g., {"8", "51", "61"}
+target_channel_ids = {"8"}  # ✅ make sure it's a string
 
-# Step 3: Download and extract the gzipped XML
 def download_and_extract(url, out_xml, temp_gz):
     try:
         print(f"➡️ Downloading from: {url}")
@@ -35,7 +32,6 @@ def download_and_extract(url, out_xml, temp_gz):
         print(f"❌ Failed to download or extract {url}: {e}")
         exit(1)
 
-# Step 4: Filter XML based on channel IDs
 def filter_epg_by_channel_id(input_xml, output_xml):
     try:
         print(f"📂 Parsing EPG file: {input_xml}")
@@ -46,27 +42,27 @@ def filter_epg_by_channel_id(input_xml, output_xml):
         added_channels = 0
         added_programmes = 0
 
+        print("\n🔍 Checking channel IDs...")
         for channel in root.findall('channel'):
             channel_id = channel.get('id')
+            print("🔍 Found channel id:", channel_id)
             if channel_id in target_channel_ids:
+                print(f"✅ Matched and added channel id={channel_id}")
                 new_root.append(channel)
                 added_channels += 1
-                print(f"✅ Included channel id={channel_id}")
 
         for programme in root.findall('programme'):
             if programme.get('channel') in target_channel_ids:
                 new_root.append(programme)
                 added_programmes += 1
 
-        tree_out = ET.ElementTree(new_root)
-        tree_out.write(output_xml, encoding='utf-8', xml_declaration=True)
-        print(f"\n✅ Filter complete. Added {added_channels} channels and {added_programmes} programmes.")
+        print(f"✅ Added {added_channels} channels, {added_programmes} programmes")
+        ET.ElementTree(new_root).write(output_xml, encoding='utf-8', xml_declaration=True)
         print(f"💾 Output file created: {output_xml}")
     except Exception as e:
         print(f"❌ Error during filtering: {e}")
         exit(1)
 
-# Step 5: Run everything
 input_xml = "epg_source.xml"
 output_xml = "filtered_epg.xml"
 
