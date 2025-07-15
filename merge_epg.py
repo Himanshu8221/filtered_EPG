@@ -16,12 +16,7 @@ if not epg_url:
 
 # Step 2: Define selected channel IDs
 selected_channel_ids = {
-    "sony-max-hd",
-    "star-plus-hd",
-    "aajtak",
-    "colors",
-    "zee-tv",
-    # ➕ Add more channel IDs as needed
+    "61", "52", "8", "51",
 }
 
 # Step 3: Download and extract EPG
