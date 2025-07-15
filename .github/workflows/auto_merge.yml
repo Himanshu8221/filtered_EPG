@@ -1,0 +1,55 @@
+name: Merge EPG Daily
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  merge-and-commit:
+    runs-on: ubuntu-latest
+
+    env:
+      EPG_URL_1: ${{ secrets.EPG_URL_1 }}
+      EPG_URL_2: ${{ secrets.EPG_URL_2 }}
+
+    steps:
+      - name: 📥 Checkout code
+        uses: actions/checkout@v3
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: 📦 Install dependencies
+        run: pip install requests
+
+      - name: ▶️ Run EPG merge script
+        run: python merge_epg.py
+
+      - name: 📂 Check if merged_epg.xml exists
+        id: check_file
+        run: |
+          if [ -f "merged_epg.xml" ]; then
+            echo "✅ merged_epg.xml exists"
+            echo "file_exists=true" >> $GITHUB_ENV
+          else
+            echo "❌ merged_epg.xml not created"
+            echo "file_exists=false" >> $GITHUB_ENV
+          fi
+
+      - name: 🔐 Set authenticated git remote
+        if: env.file_exists == 'true'
+        run: |
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+
+      - name: ✅ Commit and push merged EPG
+        if: env.file_exists == 'true'
+        run: |
+          git config user.name "EPG Bot"
+          git config user.email "epg-bot@example.com"
+          git add merged_epg.xml
+          git commit -m "Update merged EPG [auto]" || echo "No changes to commit"
+          git push origin HEAD:${{ github.ref_name }}
