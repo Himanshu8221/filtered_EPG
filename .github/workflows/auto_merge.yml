@@ -25,7 +25,7 @@ jobs:
         run: pip install requests
 
       - name: ▶️ Run EPG filter script
-        run: python merge_epg.py.py
+        run: python merge_epg.py
 
       - name: 📤 Commit filtered EPG output
         run: |
